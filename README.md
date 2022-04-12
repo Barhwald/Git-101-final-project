@@ -1,2 +1,5 @@
 # Git-101-final-project
-A project to finish the Git & GitHub 101 course on Udemy
+
+Just added a new line to modify the file.
+
+Now there's two more lines.
